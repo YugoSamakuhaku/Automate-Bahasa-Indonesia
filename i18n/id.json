@@ -1,0 +1,35 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    // main options
+    "config.title.main-options": "Pengaturan Utama",
+    "config.enabled.name": "Aktif",
+    "config.enabled.desc": "Tombol untuk mengaktifkan fitur Automate. Jika Tidak Aktif, maka mesin yang telah dibuat tidak akan berjalan terutama fitur peta Automate(Overlay).",
+    "config.junimo-huts-output-gems.name": "Junimo Huts gems",
+    "config.junimo-huts-output-gems.desc": "Jika Aktif, pemain tidak dapat merubah warna Junimo(Roh Hutan) dengan menempatkan gems di Pondon(Hut).",
+    "config.automation-interval.name": "Waktu Mesin Berjalan",
+    "config.automation-interval.desc": "Jumlah Tick antara setiap proses mesin(60 Tick untuk 1 detik, 120 Tick untuk setiap 2 detik dan seterusnya)",
+    "config.toggle-overlay-key.name": "Tombol peta Automate",
+    "config.toggle-overlay-key.desc": "Tombol yang digunakan untuk mengaktifkan peta Automate(Overlay).",
+
+    // mod compatibility
+    "config.title.mod-compatibility": "Kompatibilitas Mod",
+    "config.better-junimos.name": "Better Junimos(Mod)",
+    "config.better-junimos.desc": "Jika anda memakai Mod Better Junomos, fitur ini berguna agar Pondok Junimos(Junimos Huts) tidak menghasilkan pupuk atau benih.",
+    "config.warn-for-missing-bridge-mod.name": "Peringatan Mod tidak terhubung",
+    "config.warn-for-missing-bridge-mod.desc": "Memberikan catatan peringatan saat startup jika pemain menginstal [Mod Mesin Kustom] yang membutuhkan patch kompabilitas terpisah yang belum di pasang",
+
+    // connectors
+    "config.title.connectors": "Aktifkan Penghubung",
+    "config.connector.desc": "Apakah {{itemName}} ini ingin dijadikan penghubung antara mesin dan peti secara bersamaaan?",
+    "config.custom-connectors.name": "Penghubung Khusus",
+    "config.custom-connectors.desc": "Menambahkan barang(items) yang akan dihubungkan ke mesin secara berdekatan secara bersamaaan [Note Wajib:Nama penghubung menggunakan bahasa inggris bahkan saat menggunakan bahasa lain]", // note: connector names must be English even when playing in other languages
+
+    // machine overrides
+    "config.title.machine-overrides": "Menimpa Mesin",
+    "config.override.ShippingBin-name": "Shipping Bin",
+    "config.override.MiniShippingBin-name": "Mini-Shipping Bin",
+    "config.override.desc": "Jika {{machineName}} Aktif maka akan mengaktifkan Automate mesin. [Interaksi Antara {{machineName}} peti dan mesin lainnya]",
+    "config.custom-overrides-note": "Untuk Menimpa Mesin Kustom (custom overrides), dapat dilihat di https://github.com/Pathoschild/StardewMods/tree/develop/Automate#configure untuk bantuan mengedit file config.json secara langsung"
+}
