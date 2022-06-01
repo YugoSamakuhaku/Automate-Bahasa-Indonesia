@@ -22,7 +22,7 @@ Mod ini bersi file terjemahan default.json [`Automate`](https://www.nexusmods.co
 1. Download dan pasang semua **persyaratan Mod** di atas.
 2. Download Mod [Automate - Bahasa Indonesia](https://github.com/YugoSamakuhaku/Automate-Bahasa-Indonesia/releases/latest).
 3. Anda buka **Folder Mod Anda** dan cari [**Folder Mod Automate**](https://www.nexusmods.com/stardewvalley/mods/1063).
-4. Apakah anda melihat **Folder i18n** pada Mod Automate Anda?
+4. Apakah anda melihat **Folder i18n** pada Mod Anda?
 5. Jika **iya**, copy id.json pada Mod [Automate - Bahasa Indonesia](https://github.com/YugoSamakuhaku/Automate-Bahasa-Indonesia/releases/latest) kedalam [**Folder i18n**](https://www.nexusmods.com/stardewvalley/mods/1063).
 6. Jika anda telah selesai melakukan copy file dan mengikuti cara pemasangan ini, saya berharap Mod anda berhasil menjadi Bahasa Indonesia🤩.
 
